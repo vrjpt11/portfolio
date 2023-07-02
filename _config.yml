@@ -23,16 +23,13 @@ title: Vaishnavi Rajput # the main title
 tagline: Data Enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  My portfolio
+  vaishnavi rajput's portfolio
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://vrjpt11.github.io'
+url: 'https://vrjpt10.github.io'
 
 github:
-  username: vrjpt11 # change to your github username
-
-twitter:
-  username: twitter_username # change to your twitter username
+  username: vrjpt10 # change to your github username
 
 linkedin:
   username: vaishnavirjpt10
@@ -44,7 +41,7 @@ social:
   email: vrjpt11@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/vrjpt10 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
