@@ -16,4 +16,4 @@ During my academic journey at NYU, I had the privilege of engaging in various ex
 
 5. __Fake News Detection__: In this project, a Bidirectional Neural Network and LSTM based deep learning model was trained to detect fake news from a given news corpus. This project could be practically used by any media company to automatically predict whether the circulating news is fake or not. The process could be done automatically without having humans manually review thousands of news related articles.
 
-6. __Deepfake Detection__ : Designed a novel Res-Next convolution neural network to detect whether the given video is deep faked or pristine. Trained the model on the Celeb Deep Fake and DFDC dataset specifically and tried to improve the accuracy by experimenting with the depth and width of the architecture.
+6. __Deepfake Detection__: Designed a novel Res-Next convolution neural network to detect whether the given video is deep faked or pristine. Trained the model on the Celeb Deep Fake and DFDC dataset specifically and tried to improve the accuracy by experimenting with the depth and width of the architecture.
